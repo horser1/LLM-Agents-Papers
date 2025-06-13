@@ -28,6 +28,7 @@ A repo lists papers related to LLM based agent. Includes
   - [Finance](#Finance)
   - [Software Engineering](#Software-Engineering)
   - [Research](#Research)
+  - [Compute Network](#Compute-Network)
 - [Automation](#Automation)
   - [Workflow](#Workflow)
   - [Automatic Evaluation](#Automatic-Evaluation)
@@ -47,6 +48,8 @@ A repo lists papers related to LLM based agent. Includes
   - [Environment&Platform](#EnvironmentPlatform)
   - [Dataset](#Dataset)
 - [Others](#Others)
+
+
 ## :yellow_heart: Recommendation
 For more comprehensive reading, we also recommend other paper lists:
 * [zjunlp/LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers): Must-read Papers on Large Language Model Agents.
@@ -1888,6 +1891,16 @@ For more comprehensive reading, we also recommend other paper lists:
 - [2024/02/06] **Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science** | [[paper]](https://arxiv.org/abs/2402.04247) | [code]
 
 - [2024/01/08] **MARG: Multi-Agent Review Generation for Scientific Papers** | [[paper]](https://arxiv.org/abs/2401.04259) | [code]
+
+#### Compute Network
+- [] **A Survey on Large Language Models for Communication, Network, and Service Management: Application Insights, Challenges, and Future Directions** |  | [[paper]](https://arxiv.org/pdf/2412.19823) | [code]
+- [2025/02/22] **An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning** | [[paper]](https://arxiv.org/abs/2502.16198) | [code]
+- [2024/08/16] **Large Language Model Enhanced Multi-Agent Systems for 6G Communications** | IEEE Wireless Communication | [[paper]](https://arxiv.org/pdf/2312.07850) | [code]
+- [2024/04/20] **Large Language Models meet Network Slicing Management and Orchestration** | [[paper]](https://arxiv.org/abs/2403.13721) | [code]
+- [2025/04/19] **Self-Resource Allocation in Multi-Agent LLM Systems** | [[paper]](https://arxiv.org/abs/2504.02051) | [code]
+- [2024/08/23] **Large Language Models for Zero Touch Network Configuration Management** | [[paper]](https://arxiv.org/abs/2408.13298) | [[code]](https://github.com/oscarGLira/LLM-based-Intelligent-Configuration-Validation-Framework)
+- [2025/03/15] **End-to-End Edge AI Service Provisioning Framework in 6G ORAN** | [[paper]](https://arxiv.org/abs/2503.11933) | [[code]](https://github.com/orgs/Cranfield-GDP/repositories)
+- [2025/05/31] **ORAN-GUIDE: RAG-Driven Prompt Learning for LLM-Augmented Reinforcement Learning in O-RAN Network Slicing** | [[paper]](https://arxiv.org/abs/2506.00576) | [code]
 
 ### Automation
 #### Workflow
