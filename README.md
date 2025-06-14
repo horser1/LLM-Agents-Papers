@@ -11,6 +11,8 @@ A repo lists papers related to LLM based agent. Includes
   - [RAG](#RAG)
   - [Search](#Search)
 - [Interaction](#Interaction)
+  - [Protocol](#Protocol)
+  - [Collaboration](#Collaboration)
   - [Role Playing](#Role-Playing)
   - [Conversation](#Conversation)
   - [Game Playing](#Game-Playing)
@@ -605,6 +607,11 @@ For more comprehensive reading, we also recommend other paper lists:
 - [2023/05/17] **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** | [[paper]](https://arxiv.org/abs/2305.10601) | [code]
 
 ### Interaction
+#### Protocol
+- [2025/04/26] **A Survey of AI Agent Protocols** | [[paper]](https://arxiv.org/abs/2504.16736) | [code]
+- [2025/05/18] **ACPs: Agent Collaboration Protocols for the Internet of Agents** | [[paper]](https://arxiv.org/abs/2505.13523) | [code]
+#### Collaboration
+- [2025/01/10] **Multi-Agent Collaboration Mechanisms: A Survey of LLMs** | [[paper]](https://arxiv.org/abs/2501.06322) | [code]
 #### Role Playing
 - [2025/05/30] **Context-Aware Sentiment Forecasting via LLM-based Multi-Perspective Role-Playing Agents** | [[paper]](https://arxiv.org/abs/2505.24331) | [code]
 
@@ -1893,14 +1900,18 @@ For more comprehensive reading, we also recommend other paper lists:
 - [2024/01/08] **MARG: Multi-Agent Review Generation for Scientific Papers** | [[paper]](https://arxiv.org/abs/2401.04259) | [code]
 
 #### Compute Network
-- [] **A Survey on Large Language Models for Communication, Network, and Service Management: Application Insights, Challenges, and Future Directions** |  | [[paper]](https://arxiv.org/pdf/2412.19823) | [code]
+- [2025/06/06] **Large Language Models for Computer Networking Operations and Management: A Survey on Applications, Key Techniques, and Opportunities** |  | [[paper]](https://d197for5662m48.cloudfront.net/documents/publicationstatus/262278/preprint_pdf/0b3922d3bdd44392d5c0a7f5a4e77d42.pdf) | [code]
+- [2025/05/28] **From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications** | [[paper]](https://arxiv.org/abs/2505.22311) | [[code]](https://github.com/jiangfeibo/ComAgent)
+- [2025/05/06] **A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges** | [[paper]](https://arxiv.org/abs/2505.03556) | [code]
+- [2025/05/31] **ORAN-GUIDE: RAG-Driven Prompt Learning for LLM-Augmented Reinforcement Learning in O-RAN Network Slicing** | [[paper]](https://arxiv.org/abs/2506.00576) | [code]
+- [2025/04/19] **Self-Resource Allocation in Multi-Agent LLM Systems** | [[paper]](https://arxiv.org/abs/2504.02051) | [code]
+- [2025/03/15] **End-to-End Edge AI Service Provisioning Framework in 6G ORAN** | [[paper]](https://arxiv.org/abs/2503.11933) | [[code]](https://github.com/orgs/Cranfield-GDP/repositories)
 - [2025/02/22] **An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning** | [[paper]](https://arxiv.org/abs/2502.16198) | [code]
+- [2024/10/14] **Space-air-ground Integrated Networks With Task-driven Connected Intelligence** | [[paper]](https://ieeexplore.ieee.org/document/10716597) | 
+- [2024/08/23] **Large Language Models for Zero Touch Network Configuration Management** | [[paper]](https://arxiv.org/abs/2408.13298) | [[code]](https://github.com/oscarGLira/LLM-based-Intelligent-Configuration-Validation-Framework)
 - [2024/08/16] **Large Language Model Enhanced Multi-Agent Systems for 6G Communications** | IEEE Wireless Communication | [[paper]](https://arxiv.org/pdf/2312.07850) | [code]
 - [2024/04/20] **Large Language Models meet Network Slicing Management and Orchestration** | [[paper]](https://arxiv.org/abs/2403.13721) | [code]
-- [2025/04/19] **Self-Resource Allocation in Multi-Agent LLM Systems** | [[paper]](https://arxiv.org/abs/2504.02051) | [code]
-- [2024/08/23] **Large Language Models for Zero Touch Network Configuration Management** | [[paper]](https://arxiv.org/abs/2408.13298) | [[code]](https://github.com/oscarGLira/LLM-based-Intelligent-Configuration-Validation-Framework)
-- [2025/03/15] **End-to-End Edge AI Service Provisioning Framework in 6G ORAN** | [[paper]](https://arxiv.org/abs/2503.11933) | [[code]](https://github.com/orgs/Cranfield-GDP/repositories)
-- [2025/05/31] **ORAN-GUIDE: RAG-Driven Prompt Learning for LLM-Augmented Reinforcement Learning in O-RAN Network Slicing** | [[paper]](https://arxiv.org/abs/2506.00576) | [code]
+
 
 ### Automation
 #### Workflow
@@ -2923,6 +2934,8 @@ For more comprehensive reading, we also recommend other paper lists:
 - [2023/04/26] **Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models** | [[paper]](https://arxiv.org/abs/2304.13835) | [code]
 
 - [2023/04/24] **ChatLLM Network: More brains, More intelligence** | [[paper]](https://arxiv.org/abs/2304.12998) | [code]
+#### Agent Network
+- [2024/11/15] **A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration** | [[paper]](https://arxiv.org/abs/2310.02170) | [[code]](https://github.com/SALT-NLP/DyLAN)
 
 ### Stability
 #### Safety
